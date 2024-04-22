@@ -1,6 +1,5 @@
 ollama
+langchain
 streamlit
 python-dotenv
 PyPDF2
-langchain
--e .
